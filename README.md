@@ -2,60 +2,82 @@
   ⭐ <i>"Analyze. Secure. Improve. Repeat."</i>
 </p>
 
-<h1 align="center">Hi, I'm Pranesh Ganesan 👋</h1>
+# Hi, I'm Pranesh Ganesan 👋
 
-<h3 align="center">
-  Cybersecurity Enthusiast | Ethical Hacking | SOC & Cloud Security
-</h3>
+### Cybersecurity | SOC Analyst Aspirant | Security Enthusiast
+
+I'm a Computer Science Engineering graduate focused on building practical skills in cybersecurity and security operations.
+
+Currently working on hands-on projects involving:
+
+- 🔐 Security Operations
+- 🛡️ Threat Detection
+- 🚨 Incident Response
+- 🐧 Linux Security
+- 🌐 Network Security
+- 🔎 Web Application Security
+- 🐍 Python Automation
 
 
-🎓 Pursuing B.Tech in Computer Science Engineering at Lovely Professional University
+## 🚀 Featured Project
 
-🔐 Passionate about Cybersecurity, Ethical Hacking, Network Security, and Cloud Security
+### 🔐 SOC Log Detection Engine
 
-🛡️ Currently learning and building hands-on skills in:
+Python-based security monitoring project that analyzes Linux SSH authentication logs and detects:
 
-* SOC Operations
-* Penetration Testing
-* Vulnerability Assessment
-* Threat Detection
-* Incident Response
+- Brute-force attacks
+- Invalid user enumeration
+- Successful authentication after repeated failures
+- Privileged account targeting
 
-💻 Tools & Technologies:
+🔗 Check out the project in my repositories.
 
-* Kali Linux
-* Nmap
-* Wireshark
-* Burp Suite
-* Python
-* Linux
-* SIEM Basics
 
-🚀 Projects:
+## 🛠️ Technical Skills
 
-* Network Scanner
-* Vulnerability Assessment Labs
-* Security Monitoring Practice
-* Python Cybersecurity Scripts
-* Web Security Testing
+### Cybersecurity
+- SOC Operations
+- Log Analysis
+- Incident Detection
+- Incident Response
+- Threat Detection
+- Security Monitoring
+- OWASP
 
-📚 Platforms I Use:
+### Tools
+- Linux
+- Ubuntu
+- Git
+- GitHub
+- Burp Suite
+- Wireshark
+- Python
 
-* TryHackMe
-* Hack The Box
-* LetsDefend
-* PortSwigger Web Security Academy
+### Programming
+- Python
+- Bash
+- SQL
+- Git
 
-🌱 Currently Exploring:
 
-* Cloud Security
-* SOC Analysis
-* Threat Intelligence
-* Web Application Security
+## 📚 Currently Learning
 
-🔗 Open to Cybersecurity Internship & SOC Analyst Opportunities
+- Security Operations
+- SIEM
+- Detection Engineering
+- Network Security
+- Web Application Security
+- Cloud Security
+- Python Automation
 
-💡 Always Learning • Always Building • Always Securing
+
+## 🎯 Career Goal
+
+I'm currently looking for entry-level opportunities in:
+
+**SOC Analyst | Security Analyst | Cybersecurity Analyst | Junior Penetration Tester**
+
+I'm focused on building practical projects, improving my security knowledge, and developing real-world troubleshooting and investigation skills.
 
 
 ## 📫 Connect With Me
